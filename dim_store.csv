@@ -1,0 +1,21 @@
+store_id,store_name,store_format,region,country,warehouse_code,open_date
+S101,Leeds,High Street,UK North,United Kingdom,WH01,2019-01-01
+S102,Manchester,Shopping Centre,UK North,United Kingdom,WH01,2019-01-01
+S103,Newcastle,Retail Park,UK North,United Kingdom,WH01,2019-01-01
+S104,Sheffield,Retail Park,UK North,United Kingdom,WH01,2019-01-01
+S105,York,Retail Park,UK North,Untied Kingdom,WH01,2019-01-01
+S106,London Oxford St,Shopping Centre,UK South,United Kingdom,WH02,2019-01-01
+S107,Brighton,High Street,UK South,United Kingdom,WH02,2019-01-01
+S108,Bristol,Shopping Centre,UK South,United Kingdom,WH02,2019-01-01
+S109,Reading,High Street,UK South,United Kingdom,WH02,2019-01-01
+S110,Southampton,High Street,UK South,United Kingdom,WH02,2026-03-30
+S111,Dublin,Retail Park,Ireland,Ireland,WH03,2019-01-01
+S112,Cork,Shopping Centre,Ireland,Ireland,WH03,2019-01-01
+S113,Galway,Shopping Centre,Ireland,Ireland,WHO3,2019-01-01
+S114,Limerick,Shopping Centre,Ireland,Ireland,WH03,2019-01-01
+S115,Berlin,Shopping Centre,Germany,Germany,WH04,2019-01-01
+S116,Hamburg,Shopping Centre,Germany,Germany,WH04,2019-01-01
+S117,Munich,Retail Park,Germany,Germany,WH04,2019-01-01
+S118,Cologne,High Street,Germany,Germany,WH04,2019-01-01
+S119,Frankfurt,Shopping Centre,Germany,Germany,WH04,2019-01-01
+S120,Stuttgart,Retail Park,Germany,Germany,WH04,2019-01-01

@@ -1,0 +1,42 @@
+product_id,product_name,category,subcategory,campaign,unit_price,unit_cost
+P1001,White T-Shirt,Tops,T-Shirt,Summer Essentials,27.99,14.98
+P1002,Navy Shirt,Tops,Shirt,Clearance,34.99,18.0
+P1003,White Knit Jumper,Tops,Knit Jumper,Clearance,29.99,11.86
+P1003,White Knit Jumper,Tops,Knit Jumper,Summer Essentials,29.99,11.86
+P1004,Navy Hoodie,Tops,Hoodie,Clearance,32.99,11.97
+P1005,White Polo,Tops,Polo,Summer Essentials,39.99,19.05
+P1006,Navy T-Shirt,Tops,T-Shirt,Clearance,37.99,15.99
+P1007,White Shirt,Tops,Shirt,Summer Essentials,43.99,23.25
+P1008,Navy Knit Jumper,Tops,Knit Jumper,Clearance,38.99,15.16
+P1009,Navy Jeans,Bottoms,Jeans,Summer Essentials,40.99,14.71
+P1010,White Chinos,Bottoms,Chinos,Clearance,29.99,14.59
+P1011,Navy Shorts,Bottoms,Shorts,Summer Essentials,50.99,27.71
+P1012,White Joggers,Bottoms,Joggers,Clearance,35.99,15.26
+P1013,Navy Jeans,Bottoms,Jeans,Summer Essentials,40.99,15.9
+P1014,White Chinos,Bottoms,Chinos,Clearance,29.99,13.35
+P1015,Navy Shorts,Bottoms,Shorts,Summer Essentials,32.99,15.97
+P1016,White Joggers,Bottoms,Joggers,Clearance,39.99,20.66
+P1017,Olive Rain Jacket,Outerwear,Rain Jacket,Summer Essentials,114.99,47.43
+P1018,Black Puffer,Outerwear,Puffer,Clearance,125.99,64.37
+P1019,Olive Gilet,Outerwear,Gilet,Summer Essentials,87.99,35.87
+P1020,Black Trench Coat,Outerwear,Trench Coat,Clearance,112.99,42.7
+P1021,Olive Rain Jacket,Outerwear,Rain Jacket,Summer Essentials,71.99,25.3
+P1022,Black Puffer,Outerwear,Puffer,Clearance,121.99,58.92
+P1023,Olive Gilet,Outerwear,Gilet,Summer Essentials,114.99,58.2
+P1024,Black Trench Coat,Outerwear,Trench Coat,Clearance,93.99,43.59
+P1025,Stone Trainer,footwear,Trainer,Summer Essentials,49.99,18.64
+P1026,Red Boot,Footwear,Boot,Clearance,86.99,38.64
+P1027,Stone Sandal,Footwear,Sandal,Summer Essentials,79.99,40.23
+P1028,Red Loafer,Footwear,Loafer,Clearance,83.99,38.7
+P1029,Stone Trainer,Footwear,Trainer,Summer Essentials,78.99,32.45
+P1030,Red Boot,footwear,Boot,Clearance,41.99,18.36
+P1031,Stone Sandal,Footwear,Sandal,Summer Essentials,54.99,23.74
+P1032,Red Loafer,Footwear,Loafer,Clearance,99.99,39.67
+P1033,Red Cap,Accessories,Cap,Summer Essentials,9.99,4.06
+P1034,Stone Scarf,Accessories,Scarf,Clearance,15.99,7.71
+P1035,Red Belt,Accessories,Belt,Summer Essentials,22.99,11.65
+P1036,Stone Backpack,Accessories,Backpack,Clearance,25.99,11.21
+P1037,Red Socks 3pk,Accessories ,Socks 3pk,Summer Essentials,29.99,11.5
+P1038,Stone Cap,Accessories,Cap,Clearance,8.99,3.31
+P1039,Red Scarf,Accessories,Scarf,Summer Essentials,27.99,12.38
+P1040,Stone Belt,Accessories,Belt,Clearance,11.99,5.4
